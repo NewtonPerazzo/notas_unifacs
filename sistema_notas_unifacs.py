@@ -1,6 +1,4 @@
 """
-Código que criei com a intenção de automatizar o cálculo da média das notas da UNIFACS, que houve alteração e
-se tornou bastante trabalhoso de se fazer à mão.
 
 Por via de Regra:
 N1 = primeira unidade
